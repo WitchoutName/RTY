@@ -1,0 +1,5 @@
+client_id = "994SEnq15C3lRw"
+secret = "S-UO6bW4ZqkDt7rSUdApwnmpqwh2nw"
+user_agent = "RTY"
+username = "R-T-Y"
+pswd = "VitaKrestan007"
